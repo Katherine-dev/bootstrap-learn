@@ -1,0 +1,18 @@
+.carousel-inner .card {
+  margin: auto;
+}
+section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.carousel-control-prev-icon {
+  background-image: url(../img/left-arrow.svg) !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url(../img/right-arrow.svg) !important;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  width: 20px !important;
+}
